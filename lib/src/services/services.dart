@@ -1,0 +1,1 @@
+export 'package:flutter_news_app/src/services/news_service.dart';
